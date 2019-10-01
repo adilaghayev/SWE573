@@ -8,4 +8,4 @@ Study git as a version management system
 
 Examine Wikidata and test its capabilities
  - 2
- - Examin wikidata and generate a list of earthquakes in Turkey with data, coordinates and magnitude
+ - Examine wikidata and generate a list of earthquakes in Turkey with data, coordinates and magnitude
