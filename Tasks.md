@@ -13,3 +13,7 @@ Examine Wikidata and test its capabilities
 Draft a requirements document
  - 1 h
  - Start drafting a requremtns document, beginning with functional and non-functional requirements
+
+Add visual models to requirements
+ - 1 h
+ - Add visual models to requirements using Visio for Home page, new posts for user and moderator.
