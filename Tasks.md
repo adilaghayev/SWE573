@@ -17,3 +17,11 @@ Draft a requirements document
 Add visual models to requirements
  - 1 h
  - Add visual models to requirements using Visio for Home page, new posts for user and moderator.
+
+Study UML sequence diagrams
+ - 1 h
+ - Get accustomed with UML sequence diagrams
+ 
+ UML sequence diagram of a registration page
+ - 1 h
+ - Draw a UML sequence diagram of the registration page.
