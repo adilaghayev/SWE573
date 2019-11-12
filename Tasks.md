@@ -25,3 +25,7 @@ Study UML sequence diagrams
  UML sequence diagram of a registration page
  - 1 h
  - Draw a UML sequence diagram of the registration page.
+
+Create the environment
+- 3 h
+- Configure Django and PostgreSQL DB for the project
