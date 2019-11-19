@@ -29,3 +29,12 @@ Study UML sequence diagrams
 Create the environment
 - 3 h
 - Configure Django and PostgreSQL DB for the project
+
+Set up, test and create a homepage for the webiste
+- 3 h
+- Play around with the project and do literature review.
+
+Create a new app "CommunityApp" and a model Community
+- 3 h
+- Create a new app and a model inside it and see how it is connected to database
+
