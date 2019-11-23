@@ -38,3 +38,10 @@ Create a new app "CommunityApp" and a model Community
 - 3 h
 - Create a new app and a model inside it and see how it is connected to database
 
+Conduct more research on Django, PostgreSQL and database formats
+- 5 h
+- Conduct more research on the relevant topics.
+
+Create milestones and update issues
+- 1 h
+- Add the milestones for the prototype presentation next week and relevant deliverables.
