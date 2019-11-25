@@ -15,11 +15,13 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from django.urls import path
-from .views import home
+from django.urls import path, include
+from user import views as user_views
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    url(r'^$', home, name='home'),
+    path('register/', user_views.register, name='register'),
+    path('', include('community_builder.urls')),
+
 ]
