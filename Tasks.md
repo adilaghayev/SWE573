@@ -45,3 +45,13 @@ Conduct more research on Django, PostgreSQL and database formats
 Create milestones and update issues
 - 1 h
 - Add the milestones for the prototype presentation next week and relevant deliverables.
+
+Prepare the base interface for the website
+- 5 h
+- prepare the base HTML file for the interface that will be used throughout the website.
+
+Create authentication system.
+- 3 h
+- Create "Users" app and use Django libraries for user authentication. To be continued.
+
+
