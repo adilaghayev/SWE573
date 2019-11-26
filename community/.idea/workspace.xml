@@ -4463,6 +4463,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SWE573" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -4573,7 +4574,7 @@
       <workItem from="1574174731446" duration="1988000" />
       <workItem from="1574179397341" duration="5591000" />
       <workItem from="1574677853698" duration="15040000" />
-      <workItem from="1574753326976" duration="7343000" />
+      <workItem from="1574753326976" duration="23042000" />
     </task>
     <task id="LOCAL-00001" summary="This is the first commit.">
       <created>1574182842636</created>
