@@ -50,8 +50,10 @@ Prepare the base interface for the website
 - 5 h
 - prepare the base HTML file for the interface that will be used throughout the website.
 
-Create authentication system.
+Create authentication system
 - 3 h
 - Create "Users" app and use Django libraries for user authentication. To be continued.
 
-
+Create posting functionality
+- 8 h
+- Create posting functionality with all the necessary user permissions.
