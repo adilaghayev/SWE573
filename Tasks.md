@@ -57,3 +57,7 @@ Create authentication system
 Create posting functionality
 - 8 h
 - Create posting functionality with all the necessary user permissions.
+
+Fix a bug with creating new post.
+- 1 h
+- Author title being requested before the post is posted.
