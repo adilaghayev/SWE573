@@ -1,0 +1,15 @@
+{% extends "community_builder/base.html" %}
+{% block content %}
+    {% for entry in entries %}
+        <article class="media content-section">
+            <div class="media-body">
+                <div class="article-metadata">
+                    <a class="mr-2" href="#">{{ entry.author }}</a>
+                    <small class="text-muted">{{ entry.date_posted }}</small>
+                </div>
+                <h2><a class="article-title" href="{% url 'entry-detail' post.id entry.id  %}">{{ entry.title }}</a></h2>
+                <p class="article-content">{{ entry.content }}</p>
+            </div>
+        </article>
+    {% endfor %}
+{% endblock content %}

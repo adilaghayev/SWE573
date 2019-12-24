@@ -5,6 +5,7 @@
             <div class="article-metadata">
                 <a class="mr-2" href="#">{{ object.author }}</a>
                 <small class="text-muted">{{ object.date_posted }}</small>
+                {% comment %}<a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'entry-create' %}">New Entry</a>{% endcomment %}
                 {% if object.author == user %}
                     <div>
                         <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'post-update' object.id %}">Edit</a>
@@ -14,6 +15,7 @@
             </div>
             <h2 class="article-title">{{ object.title }}</h2>
             <p class="article-content">{{ object.content }}</p>
+            <img class="img-thumbnail" src="{{ object.image }}">
         </div>
     </article>
 {% endblock content %}
