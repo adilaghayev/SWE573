@@ -4464,7 +4464,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SWE573" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -4583,7 +4583,8 @@
       <workItem from="1576913021788" duration="810000" />
       <workItem from="1577086118521" duration="24727000" />
       <workItem from="1577115515655" duration="79000" />
-      <workItem from="1577170449452" duration="7597000" />
+      <workItem from="1577170449452" duration="8304000" />
+      <workItem from="1577197182279" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="This is the first commit.">
       <created>1574182842636</created>
